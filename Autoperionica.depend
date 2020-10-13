@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1601521890 source:c:\users\sekulic\desktop\autoperionica\main.cpp
+	<iostream>
+	<queue>
+	<windows.h>
+
+1601524426 source:d:\milos's documents\desktop\autoperionica\main.cpp
+	<iostream>
+	<queue>
+	<windows.h>
+
+1601524426 source:d:\milos's documents\desktop\projekti za github\autoperionica\main.cpp
+	<iostream>
+	<queue>
+	<windows.h>
+
